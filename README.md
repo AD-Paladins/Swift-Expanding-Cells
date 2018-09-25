@@ -1,4 +1,4 @@
-# Ultravisual (MIT License)
+# Based on Swift Expanding Cells(raywenderlich.com) and RPSlidingMenu(GitHub) - (MIT License)
 Ultravisual-like Custom Collection View Layout
 
 ![content](https://raw.githubusercontent.com/titopalito/Swift-Expanding-Cells/master/Finalstep.gif)
